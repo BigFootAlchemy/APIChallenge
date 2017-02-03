@@ -1,5 +1,10 @@
-# GophersLoveAWS
-API Challenge for AWS and GO
+# BigFootAlchemy's Labs
+API Challenge for AWS and Python SDK
+
+##Prerequisite : 
+Install aws cli - pip install awscli
+Install boto3 - pip install boto3
+Sign up for free aws dev account - https://aws.amazon.com/s/dm/optimization/server-side-test/free-tier/free_np/
 
 #API Challenges
 
@@ -34,9 +39,9 @@ Create a new Autoscaling Group. Create a Elastic Load Balancer . Add the new ASG
 
 ##API Challenge Group C - Tools
 
-Challenge 9 (5 Points) : User Packer.io to build an AMI that when passed the arguments image and instance type it creates a new AMI with ssm, scaleft, ansible, awscli, and GO path. 
+Challenge 9 (5 Points) : User Packer.io to build an AMI that when passed the arguments image and instance type it creates a new AMI with ssm, scaleft, ansible, awscli, and path. 
 
-Challeng 10 (10 Points) : Write a GO script to parse the packer json template , validate , and pass it to CodeCommit . 
+Challeng 10 (10 Points) : Write a python script to parse the packer json template , validate , and pass it to CodeCommit . 
 
 
 ##API Challenge Group D - Messaging 
